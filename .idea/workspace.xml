@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d708c9c0-a08a-4854-af8a-4ce13756481c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="85e41284-736f-4476-a210-74407fc769cf" />
+  <component name="ProjectId" id="22ALW7uJDRCHqcVZxz2CgbK8FXK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ScoutingReportApp" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ScoutingReportApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d708c9c0-a08a-4854-af8a-4ce13756481c" name="Default Changelist" comment="" />
+      <created>1639275474193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639275474193</updated>
+      <workItem from="1639275478999" duration="465000" />
+      <workItem from="1639284356364" duration="9303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="114" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639351274348">
+      <screen x="0" y="25" width="1680" height="936" />
+    </state>
+    <state x="488" y="114" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.936@0.25.1680.936" timestamp="1639351274348" />
+    <state x="997" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1639349526733">
+      <screen x="0" y="25" width="1680" height="936" />
+    </state>
+    <state x="997" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.936@0.25.1680.936" timestamp="1639349526733" />
+    <state x="702" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1639275481602">
+      <screen x="0" y="25" width="1680" height="936" />
+    </state>
+    <state x="702" y="274" key="com.intellij.ide.util.TipDialog/0.25.1680.936@0.25.1680.936" timestamp="1639275481602" />
+  </component>
+</project>

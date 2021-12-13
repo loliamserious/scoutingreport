@@ -47,7 +47,7 @@ INSTALLED_APPS = [
 CORS_ORIGIN_ALLOW_ALL = True
 
 MIDDLEWARE = [
-    'corsheaders.middleware.CorsMiddleWare',
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -84,10 +84,10 @@ WSGI_APPLICATION = 'ScoutingReportApp.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'des2nuj0nss4b2',
-        'USER': 'ocatxoufcbugrg',
-        'PASSWORD': '9b4ba9678e9fdeab8d5063d307623d6c5729b99650a15f3751da287d76f46b0d',
-        'HOST': 'ec2-3-217-216-13.compute-1.amazonaws.com',
+        'NAME': 'd3ddhuh3h7jcbo',
+        'USER': 'abdhpbleflpnma',
+        'PASSWORD': '4adbd022487b9b9286aae159c25c3f09c039a0a8dcbcb1a43fc5b91ca5a2d0ac',
+        'HOST': 'ec2-54-198-213-75.compute-1.amazonaws.com',
         'PORT': '5432',
     }
 }

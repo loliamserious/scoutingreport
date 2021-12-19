@@ -29,7 +29,7 @@ if os.path.isfile(dotenv_file):
 SECRET_KEY = 'django-insecure-*ax%!pnr-69(o#fy+6p^y7*i%1gn*@yhi*%u0_*g#61orcg957'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['scouting-report-ql.herokuapp.com','127.0.0.1']
 
@@ -148,3 +148,4 @@ django_heroku.settings(locals())
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+

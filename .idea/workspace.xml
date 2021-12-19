@@ -4,6 +4,7 @@
     <list default="true" id="d708c9c0-a08a-4854-af8a-4ce13756481c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ScoutingReportApp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScoutingReportApp/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="ScoutingReportApp" type="Python.DjangoServer" factoryName="Django server">
@@ -87,7 +93,7 @@
       <workItem from="1639629068482" duration="3567000" />
       <workItem from="1639840714818" duration="2368000" />
       <workItem from="1639926188801" duration="6002000" />
-      <workItem from="1639942253645" duration="3424000" />
+      <workItem from="1639942253645" duration="6708000" />
     </task>
     <servers />
   </component>

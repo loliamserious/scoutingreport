@@ -38,3 +38,6 @@ def reportDetailApi(request,id=0):
         report = Reports.objects.get(ReportId=id)
         report_serializer = ReportSerializer(report,many=False)
         return JsonResponse(report_serializer.data,safe=False)
+
+def index(request):
+    return render(request, "index.html")

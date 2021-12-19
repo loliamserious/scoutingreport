@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d708c9c0-a08a-4854-af8a-4ce13756481c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReportApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReportApp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReportApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReportApp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScoutingReportApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScoutingReportApp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScoutingReportApp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScoutingReportApp/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +35,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -85,7 +86,8 @@
       <workItem from="1639603820656" duration="9000" />
       <workItem from="1639629068482" duration="3567000" />
       <workItem from="1639840714818" duration="2368000" />
-      <workItem from="1639926188801" duration="5865000" />
+      <workItem from="1639926188801" duration="6002000" />
+      <workItem from="1639942253645" duration="1631000" />
     </task>
     <servers />
   </component>
@@ -105,9 +107,9 @@
       <screen x="0" y="25" width="1680" height="936" />
     </state>
     <state x="469" y="108" key="SettingsEditor/0.25.1680.936@0.25.1680.936" timestamp="1639422449572" />
-    <state x="702" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1639603820609">
+    <state x="702" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1639942253586">
       <screen x="0" y="25" width="1680" height="936" />
     </state>
-    <state x="702" y="274" key="com.intellij.ide.util.TipDialog/0.25.1680.936@0.25.1680.936" timestamp="1639603820609" />
+    <state x="702" y="274" key="com.intellij.ide.util.TipDialog/0.25.1680.936@0.25.1680.936" timestamp="1639942253586" />
   </component>
 </project>

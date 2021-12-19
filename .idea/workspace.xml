@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d708c9c0-a08a-4854-af8a-4ce13756481c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ScoutingReportApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ScoutingReportApp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ReportApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReportApp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReportApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReportApp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ReportApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReportApp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScoutingReportApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScoutingReportApp/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,15 @@
       <updated>1639275474193</updated>
       <workItem from="1639275478999" duration="465000" />
       <workItem from="1639284356364" duration="13189000" />
-      <workItem from="1639421367383" duration="3292000" />
+      <workItem from="1639421367383" duration="3413000" />
+      <workItem from="1639507009243" duration="2295000" />
+      <workItem from="1639519064388" duration="4128000" />
+      <workItem from="1639600101058" duration="130000" />
+      <workItem from="1639603007762" duration="35000" />
+      <workItem from="1639603820656" duration="9000" />
+      <workItem from="1639629068482" duration="3567000" />
+      <workItem from="1639840714818" duration="2368000" />
+      <workItem from="1639926188801" duration="1858000" />
     </task>
     <servers />
   </component>
@@ -98,9 +105,9 @@
       <screen x="0" y="25" width="1680" height="936" />
     </state>
     <state x="469" y="108" key="SettingsEditor/0.25.1680.936@0.25.1680.936" timestamp="1639422449572" />
-    <state x="702" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1639421368155">
+    <state x="702" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1639603820609">
       <screen x="0" y="25" width="1680" height="936" />
     </state>
-    <state x="702" y="274" key="com.intellij.ide.util.TipDialog/0.25.1680.936@0.25.1680.936" timestamp="1639421368155" />
+    <state x="702" y="274" key="com.intellij.ide.util.TipDialog/0.25.1680.936@0.25.1680.936" timestamp="1639603820609" />
   </component>
 </project>

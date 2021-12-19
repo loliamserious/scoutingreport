@@ -31,3 +31,10 @@ def reportApi(request,id=0):
         report = Reports.objects.get(ReportId=id)
         report.delete()
         return JsonResponse("Deleted Successfully",safe=False)
+
+@csrf_exempt
+def reportDetailApi(request,id=0):
+    if request.method=='GET':
+        report = Reports.objects.get(ReportId=id)
+        report_serializer = ReportSerializer(report,many=False)
+        return JsonResponse(report_serializer.data,safe=False)

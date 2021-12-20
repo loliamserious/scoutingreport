@@ -23,13 +23,14 @@ All of the configutations are in this repository. Build instructions is below.
 ## Build Locally
 1. Install a virtualenv and set up a project root where ever you want.
 2. Download the repository:
-
+```
 git clone https://github.com/loliamserious/scoutingreport.git
-
+```
 3. Install all of the required python packages which this server uses:
-
+```
 pip install -r requirements.txt
-
+```
 4. Finally, run the development server:
-
+```
 python manage.py runserver
+```

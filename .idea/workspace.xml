@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d708c9c0-a08a-4854-af8a-4ce13756481c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ReportApp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReportApp/migrations/0002_auto_20211213_1850.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReportApp/migrations/0003_auto_20211215_1944.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReportApp/migrations/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
@@ -94,7 +98,7 @@
       <workItem from="1639629068482" duration="3567000" />
       <workItem from="1639840714818" duration="2368000" />
       <workItem from="1639926188801" duration="6002000" />
-      <workItem from="1639942253645" duration="14324000" />
+      <workItem from="1639942253645" duration="14567000" />
     </task>
     <servers />
   </component>
@@ -130,6 +134,10 @@
       <screen x="0" y="25" width="1680" height="936" />
     </state>
     <state x="469" y="108" key="SettingsEditor/0.25.1680.936@0.25.1680.936" timestamp="1639422449572" />
+    <state x="519" y="125" width="800" height="636" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1639980770180">
+      <screen x="0" y="25" width="1680" height="936" />
+    </state>
+    <state x="519" y="125" width="800" height="636" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1680.936@0.25.1680.936" timestamp="1639980770180" />
     <state x="702" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1639942253586">
       <screen x="0" y="25" width="1680" height="936" />
     </state>

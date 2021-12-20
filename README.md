@@ -6,11 +6,11 @@ This is a standard CRUD web application.
 I utilize:
 * `Python` for backend and `Django` as the web framework
 * `React` as the JS framework
-* `Cloud-based Heroku PostgresSQL` for Database
-* `gunicon` as the wsgi server
+* `Cloud-based Heroku PostgreSQL` for Database
+* `gunicorn` as the wsgi server
 * `virtualenv` emcompasses everything
 
-All of the configutations are in this repository. Build instructions is below.
+All of the configurations are in this repository. Build instructions is below.
 
 
 ## Feature
